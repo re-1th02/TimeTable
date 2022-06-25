@@ -1,0 +1,13 @@
+.noScroll::-webkit-scrollbar {
+    width : 10px;
+    height: 10px;
+    background-color: white;
+}
+.noScroll::-webkit-scrollbar-thumb {
+    background : linear-gradient(#6EA6FF, #5A89FF);
+    border-radius: 10px;
+}
+th, td {
+    border-left: 1px solid white;
+    padding: 20px;
+}

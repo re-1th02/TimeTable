@@ -1,0 +1,10 @@
+#hov:hover {
+    background: white;
+    color : #283A63;
+    font-weight: 1000;
+}
+#hov {
+    font-weight: 500;
+    background : linear-gradient(to bottom, #263453, #0f2252);
+    /* background-image: url('../img/button_3.png'); */
+}
